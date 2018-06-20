@@ -1,0 +1,21 @@
+
+
+
+form {
+  display: inline-block;
+
+}
+
+body {
+  text-align: center;
+}
+
+
+
+.list-group-item {
+  padding-top: 20px;
+  width: 50%;
+  text-align: left;
+
+
+}
